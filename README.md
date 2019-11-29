@@ -2,7 +2,7 @@
 
 Creating a command-line application that dynamically generates a PDF profile from a GitHub username. The application will run once the node index.js command is ran in the CLI:
 
-
+![](ezgif.com-video-to-gif.gif)
 
 # Steps
 
